@@ -1,4 +1,5 @@
-# MultiRec - Multimodal Cold-Start Recommendation System
+# New users? 
+MultiRec - Multimodal Cold-Start Recommendation System
 
 A time-aware sequential recommendation system that fuses text, image, and interaction signals to improve cold-start product recommendation on the Amazon Beauty dataset.
 
