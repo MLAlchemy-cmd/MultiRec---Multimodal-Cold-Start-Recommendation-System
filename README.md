@@ -1,10 +1,13 @@
-# Multimodal Sequential Recommendation for Amazon Beauty
+# MultiRec - Multimodal Cold-Start Recommendation System
 
 A time-aware sequential recommendation system that fuses text, image, and interaction signals to improve cold-start product recommendation on the Amazon Beauty dataset.
 
 ---
 
 ## Overview
+
+<img width="1427" height="711" alt="image" src="https://github.com/user-attachments/assets/312c543f-ab17-48d0-99c0-bdfd85028229" />
+
 
 This project implements **MultiModal-TiSASRec**, a sequential recommender that extends Time-aware Self-Attention (TiSASRec) with multimodal item representations. Items are encoded using:
 
